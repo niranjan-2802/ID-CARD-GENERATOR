@@ -139,4 +139,4 @@ Found a bug? Please [open an issue](https://github.com/kredix-xypher/id-card-gen
 This project is licensed under the **MIT License** 
 ---
 
-Made with ❤️ by Kredix Xypher | © 2023 All Rights Reserved
+Made with ❤️ by Kredix Xypher 
