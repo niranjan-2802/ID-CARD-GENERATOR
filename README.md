@@ -1,4 +1,4 @@
-# 🎫 Advanced ID Card Generator by KREDIX XYPHER
+# 🎫 Advanced ID Card Generator
 
 ![ID Card Generator Screenshot](preview.png)
 
@@ -139,4 +139,6 @@ Found a bug? Please [open an issue](https://github.com/kredix-xypher/id-card-gen
 This project is licensed under the **MIT License** 
 ---
 
-Made with ❤️ by Kredix Xypher 
+
+
+
